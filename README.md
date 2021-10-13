@@ -15,3 +15,5 @@ You can find @Remi-Gau BIDS cookbook here:
 https://github.com/Remi-Gau/bids_cookbook
 
 He went manually through a step-by-step BIDS conversion of the corresponding SPM fMRI dataset.
+
+Here some information about the multimodal task gathered in the SPM8 manual: https://hackmd.io/cna6eSM1RWi648WNRUXOlg?view
