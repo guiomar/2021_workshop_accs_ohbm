@@ -11,3 +11,6 @@ MEG-conversion using: MNE-BIDS (python) and Brainstorm (user interface)
 Hands-on workshop where we convert the *SPM multimodal dataset*. 
 MEG data could be downloaded from: https://www.fil.ion.ucl.ac.uk/spm/data/mmfaces
 
+You can find @Remi-Gau BIDS cookbook here:
+https://github.com/Remi-Gau/bids_cookbook
+He went manually through a step-by-step BIDS conversion of the corresponding SPM fMRI dataset.
